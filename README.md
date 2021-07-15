@@ -1,4 +1,5 @@
 # Group-12
+<<<<<<< HEAD
 ## _Problem Statement: Exam Performance Module_
 
 **Contribution**
@@ -73,3 +74,6 @@
 **Note:** Everyone in team discussed & used their own logic and came up with their different or same solution. First we tried to learn React js , Node js and started woking on the same. Because of lack of knowledge, errors and problems occured using Reactjs some members started working on HTML, JAVA Servlet, PHP server & MySql and created the dashboards for teachers and students module and also we kept working on reactjs . At the end we decided to push all the codes on gitHub repository
 
 ---
+=======
+
+>>>>>>> 606ee824530941e553ea8220f7aa929f0cbc7237
