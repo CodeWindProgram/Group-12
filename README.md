@@ -5,7 +5,7 @@
 **Contribution**
 - @Arvind77150 - _apra76859@gmail.com_
    1. Leaded the backend Team.
-   2. Created the Teacher & Admin Database using HTML, JAVA and Servlet technology language.
+   2. Created the Teacher & Admin Database using HTML, JAVA and Servlet and MySQL technology language.
 
 - @Ptare07 - _tareprajyot@gmail.com_
    1. Leaded the Front-end.
@@ -65,8 +65,8 @@
    1.Decided what actors should be there in system.
 
 **Technologies Used**
-1. V1: React js, Node js, MySQL Workbench
-2. V2: HTML, JAVA and Servlet
+1. V1: HTML, JAVA, Servlet, MySQL
+2. V2: React js, Node js, MySQL Workbench
 3. V3: Front-end- PHP Server, Back-end- MySQL
 
 ---
