@@ -1,8 +1,8 @@
-# Group-12
+# _Group-12_
 
 ## _Problem Statement: Exam Performance Module_
 
-## **Contribution**
+## **_Contribution_**
 - @Arvind77150 - _apra76859@gmail.com_
    1. Leaded the backend Team.
    2. Created the Teacher & Admin Database using HTML, JAVA and Servlet and MySQL technology language.
@@ -63,14 +63,60 @@
    
 - @PrasadGulekar97 - _prasadgulekar97@gmail.com_
    1.Decided what actors should be there in system.
+  
+---
 
-## **Technologies Used**
+## **_Technologies Used_**
 1. V1: HTML, JAVA, Servlet, MySQL
 2. V2: React js, Node js, MySQL Workbench
 3. V3: Front-end- PHP Server, Back-end- MySQL
 
 ---
 
-**Note:** Everyone in team discussed & used their own logic and came up with their different or same solution. First we tried to learn React js , Node js and started woking on the same. Because of lack of knowledge, errors and problems occured using Reactjs some members started working on HTML, JAVA Servlet, PHP server & MySql and created the dashboards for teachers and students module and also we kept working on reactjs . At the end we decided to push all the codes on gitHub repository
+## **_Screenshots_**
+- **Teachers Module using HTML, JAVA, Servlet, MySQL**
+   
+   i. Teachers Dashboard
+ ![](Images/TeachersDashboard.jpeg)
+
+   2. View Students List
+![](Images/StudentList.jpeg)
+   
+   3. Add Students
+![](Images/AddNewStudent.jpeg)
+
+   4. View Teachers List
+![](Images/TeachersList.jpeg)
+
+   5. Add Teachers
+![](Images/AddNewTeacher.jpeg)
+
+   6. Add Marks
+![](Images/AddNewMarks.jpeg)
+
+   7. View Marks
+![](Images/ListofMarks.jpeg)
+
+---
+
+- **Teachers Module using React js, Node js, MySQL Workbench**
+
+   1. Teachers Dashboard
+![](Images/TeachersDashboardReactjs.PNG)
+
+---
+
+- **Students Module using Front-end- PHP Server, Back-end- MySQL**
+   
+   1. Students Dashboard
+![](Images/StudentsModule.png)
+
+   2. Students Database in MySQL
+![](Images/database.png)
+
+---
+
+## **Note:**
+Everyone in team discussed & used their own logic and came up with their different or same solution. First we tried to learn React js , Node js and started woking on the same. Because of lack of knowledge, errors and problems occured using Reactjs some members started working on HTML, JAVA Servlet, PHP server & MySql and created the dashboards for teachers and students module and also we kept working on reactjs . At the end we decided to push all the codes on gitHub repository
 
 ---
