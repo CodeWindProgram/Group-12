@@ -2,7 +2,7 @@
 
 ## _Problem Statement: Exam Performance Module_
 
-**Contribution**
+## **Contribution**
 - @Arvind77150 - _apra76859@gmail.com_
    1. Leaded the backend Team.
    2. Created the Teacher & Admin Database using HTML, JAVA and Servlet and MySQL technology language.
@@ -64,7 +64,7 @@
 - @PrasadGulekar97 - _prasadgulekar97@gmail.com_
    1.Decided what actors should be there in system.
 
-**Technologies Used**
+## **Technologies Used**
 1. V1: HTML, JAVA, Servlet, MySQL
 2. V2: React js, Node js, MySQL Workbench
 3. V3: Front-end- PHP Server, Back-end- MySQL
